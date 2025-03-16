@@ -8,7 +8,7 @@
 
 <h1 align="center">Приветсвую <a href="https://daniilshat.ru/" target="_blank">Путник!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">В этом репозитории будут собраны бесплатные файлы '.dll' под плагины сервера в игре SCP: CLASSIFED SITE </h3>
+<h3 align="center">В этом репозитории будут собраны бесплатные файлы '.dll' под плагины сервера в игре SCP: CLASSIFED SITE от проекта TRIZEN</h3>
 
 # **Сборка плагинов**
 > [!NOTE]
